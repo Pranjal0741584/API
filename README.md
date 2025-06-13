@@ -1,1 +1,1 @@
-# API
+# API  Developed a robust REST API using Spring Boot and MySQL to manage employee records with CRUD operations. Integrated endpoints for create, read, update, and delete functionalities. Ensured scalability and clean architecture. Ideal for HR systems and enterprise-level data handling.
